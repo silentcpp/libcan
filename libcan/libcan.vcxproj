@@ -44,6 +44,9 @@
     <ClInclude Include="misc\Timer.h" />
     <ClInclude Include="misc\Type.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="change_logs.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

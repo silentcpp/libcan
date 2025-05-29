@@ -96,4 +96,7 @@
       <Filter>头文件\device</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="change_logs.txt" />
+  </ItemGroup>
 </Project>
